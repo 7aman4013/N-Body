@@ -8,4 +8,4 @@ In a sense, ![image](https://github.com/user-attachments/assets/a31e2f9b-8e86-4e
 
 It might be possible to do this, but doing it efficiently enough to where the payoff of being able to do Barnes-Hutt sometimes outweighs the work to check when I can do it feels very hard.
 
-Also, if anyone was genuinely curious(!!), sorry for the mess. I made these under the assumption that only I would see the code.
+Also, if anyone was genuinely curious(!!), sorry for the mess. I made these under the assumption that only I would see the code. However, I do intend to clean this up.
